@@ -12,3 +12,5 @@ But for now the PDFs that those of us who have been using for our Dolmenwood cam
 4. css document for making the html file look less boring
 
 To use the Generator all you have to do is open the html file in the folder. That's it!
+
+![image](https://user-images.githubusercontent.com/126406370/221432310-239e537c-cac0-4501-a701-f4045ac9a610.png)
